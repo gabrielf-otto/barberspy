@@ -89,6 +89,7 @@ $ cd frontend<br><br>
 <p><b>Frontend:</b></p>
 <ul>
    <li><a href="https://pt-br.reactjs.org/" target="_blank">ReactJS</a></li>
+   <li><a href="https://react-hook-form.com/" target="_blank">React Hook Form</a></li>
    <li><a href="https://github.com/axios/axios" target="_blank">Axios</a></li>
    <li><a href="https://styled-components.com/" target="_blank">Styled Components</a></li>
 </ul>
