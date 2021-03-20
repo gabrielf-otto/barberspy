@@ -20,7 +20,7 @@
    <li>Cadastro de usuários (prestadores de serviço e clientes)</li>
    <li>Agendamento de horários pelos clientes</li>
    <li>Listagem dos horários disponíveis do prestador</li>
-   <li>Listagem dos dias do mês disponíveis</li>
+   <li>Listagem dos dias do mês disponíveis do prestador</li>
    <li>Atualização do perfil</li>
    <li>Recuperação de senha</li>
 </ul>
